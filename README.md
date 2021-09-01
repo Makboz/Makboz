@@ -5,7 +5,7 @@ Aspiring to create technologies that enable people and businesses to grow!
 - :mortar_board: Studying Computer Science @ the University of Waterloo
 - 🌱 Learning more about Cloud Architecture, Machine Learning and Artificial Intelligence
 - ⚡ Fun fact: Co-founded a virtual restaurant amidst the pandemic to capitalize on the growing demand for food delivery in the city
-- 🤔 Learn more about me at [mahadkhan.com](https://mahadkhan.me/)
+- 🤔 Learn more about me at [mahadkhan.me](https://mahadkhan.me/)
 
 
 ### Languages
@@ -53,8 +53,9 @@ Aspiring to create technologies that enable people and businesses to grow!
 ## Connect with Me 🤝
 
 <p align="left">
-<a href="https://mahadkhan.me/"><img alt="Website" src="https://img.shields.io/badge/Website-mahadkhan-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mahad-ali-khan-6398a417b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Mahad%20Khan-blue?style=flat&logo=linkedin"></a>
+<a href="https://mahadkhan.me/"><img alt="Website" src="https://img.shields.io/badge/mahadkhan.me-grey?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mahad-ali-khan-6398a417b/"><img alt="LinkedIn" src="https://img.shields.io/badge/Mahad%20Khan-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:mahadali200@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/mahadkhan-grey?style=flat&logo=gmail"></a>
 </p>
 
 
