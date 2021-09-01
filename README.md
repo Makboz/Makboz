@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mahad.
 
-aspiring to create technologies that enable people and businesses to grow!
+Aspiring to create technologies that enable people and businesses to grow!
 
 - :mortar_board: Studying Computer Science @ the University of Waterloo
 - 🌱 Learning more about Cloud Architecture, Machine Learning and Artificial Intelligence
